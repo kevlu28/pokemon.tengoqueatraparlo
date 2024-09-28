@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f75321;
+}
+
+#pokemon {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://1.bp.blogspot.com/--o_TmvpIytg/U_IEJU6FseI/AAAAAAAAKrc/Fk9_U_2NOTE/s1600/Charmander%2B1.gif);
+    background-size: cover;
+    position: absolute;
+}
